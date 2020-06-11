@@ -1,2 +1,11 @@
 # dungeons-and-dragons
-does this work
+Dungeon Master’s Guide (DMG)
+Legends of Runeterra: Dark Tides of Bilgewater (DTB)
+Eberron Rising from the Last War (ERLW)
+Explorer’s Guide to Wildmount (EGW)
+Guildmaster’s Guide to Ravnica (GGR)
+Mythic Odysses of Theros (MOT)
+Player’s Handbook (PHB)
+Sword Coast Adventurer’s Guide (SCAG)
+Unearthed Arcana (UA)
+Xanathar’s Guide to Everything (XGE)
